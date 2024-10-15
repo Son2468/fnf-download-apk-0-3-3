@@ -43,7 +43,7 @@ p {
     background-color: #0056b3;
 }
 
-. icon {
-    width: 60%;
-    max-width: 200px;
+.icon {
+    max-width: 100%;
+    height: auto;
 }
